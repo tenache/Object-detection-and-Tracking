@@ -37,7 +37,7 @@ git clone https://github.com/yehengchen/Object-Detection-and-Tracking.git
 * __How to train a YOLO model on custom images: YOLOv3 - [[Here]](https://github.com/yehengchen/ObjectDetection/tree/master/OneStage/yolo/yolov3) / YOLOv4 - [[Here]](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/OneStage/yolo/Train-a-YOLOv4-model)__
 
 
-
+<!-- I feel that I can't>
 
 ***
 <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/output_49.gif" width="60%" height="60%">
@@ -56,6 +56,7 @@ git clone https://github.com/yehengchen/Object-Detection-and-Tracking.git
 <img src="https://github.com/yehengchen/YOLOv3-ROS/blob/master/darknet_ros/yolo_network_config/weights/output.gif" width="60%" height="60%">
 
 * #### YOLOv3 + ROS Kinetic - For small Custom Data - [[Here]](https://github.com/yehengchen/YOLOv3_ROS)
+
 ***
 
 <img src="https://github.com/yehengchen/YOLOv3-ROS/blob/master/yolov3_pytorch_ros/models/output.gif" width="60%" height="100%">
